@@ -1,0 +1,143 @@
+{
+  "time":{
+    "item": {
+      "edgecolor": "k",
+      "facecolor": "w",
+      "alpha": 1,
+      "linewidth": 0.5
+    },
+    "text": {
+      "fontsize": 8
+    }
+  },
+    
+  "rWP": {
+    "item": {
+      "facecolor": "#b2c9d2",
+      "edgecolor": "none",
+      "linewidth": 0,
+      "alpha": 0.85,
+      "zorder": 1e3
+    },
+    "text": {
+      "fontsize": 8,
+      "color": "k",
+      "weight": "bold"
+    }
+  },
+
+  "nWP": {
+    "item": {
+      "facecolor": "#c2c2c2",
+      "edgecolor": "none",
+      "linewidth": 0,
+      "alpha": 0.85,
+      "zorder": 1e3
+    },
+    "text": {
+      "fontsize": 8,
+      "color": "k",
+      "weight": "bold"
+    }
+  },
+
+  "rT": {
+    "item": {
+      "facecolor": "#2e4755",
+      "edgecolor": "none",
+      "linewidth": 0,
+      "alpha": 1
+    },
+    "text": {
+      "fontsize": 8,
+      "va": "center",
+      "color": "white"
+    }
+  },
+
+  "nT": {
+    "item": {
+      "facecolor": "#3a3a3a",
+      "edgecolor": "none",
+      "linewidth": 0,
+      "alpha": 1
+    },
+    "text": {
+      "fontsize": 8,
+      "va": "center",
+      "color": "white"
+    }
+  },
+
+  "rD": {
+    "item": {
+      "facecolor": "#5f7f90",
+      "edgecolor": "w",
+      "linewidth": 0.25,
+      "alpha": 1,
+      "s": 30,
+      "marker": "d"
+    },
+    "text": {
+      "fontsize": 8,
+      "zorder": 1e8,
+      "color": "#082c3a",
+      "ha": "left",
+      "va": "bottom",
+      "rotation": 30
+    }
+  },
+
+  "nD": {
+    "item": {
+      "facecolor": "#5e5e5e",
+      "edgecolor": "w",
+      "linewidth": 0.25,
+      "alpha": 1,
+      "s": 30,
+      "marker": "d"
+    },
+    "text": {
+      "fontsize": 8,
+      "zorder": 1e8,
+      "color": "#2c2c2c",
+      "ha": "left",
+      "va": "bottom",
+      "rotation": 30
+    }
+  },
+
+  "M": {
+    "item": {
+      "color": "#9a0eea",
+      "linewidth": 0.25,
+      "linestyle": "--",
+      "alpha": 1,
+      "zorder": 2
+    },
+    "text": {
+      "fontsize": 8,
+      "zorder": 1e8,
+      "color": "#35063e",
+      "ha": "left",
+      "va": "bottom"
+    }
+  },
+
+  "S": {
+    "item": {
+      "facecolor": "#e9d8c8",
+      "edgecolor": "#a58d7d",
+      "linewidth": 0.5,
+      "alpha": 0.85,
+      "zorder": 1e2,
+      "radius_br": 0,
+      "linestyle": "--"
+    },
+    "text": {
+      "fontsize": 8,
+      "color": "#412f21",
+      "zorder": 1e8
+    }
+  }
+}
